@@ -25,8 +25,6 @@ Education
 *Doctor of Philosophy, Statistics*  
 Sep 2024 – Present
 
----
-
 **University of Connecticut** — Storrs, CT  
 *Bachelor of Science, Honors*  
 Aug 2021 – May 2024
