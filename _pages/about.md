@@ -20,7 +20,6 @@ Research Interests
 
 Education
 ======
-## Education
 
 **University of California, Los Angeles** — Los Angeles, CA  
 *Doctor of Philosophy, Statistics*  
