@@ -24,6 +24,7 @@ repository               : "mathewchandy03/mathewchandy03.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
+  signature        : "signature.png"
   name             : "Mathew Chandy"
   pronouns         : "he/his"
   bio              : "Statistics PhD @ UCLA"
