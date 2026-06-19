@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Statistics & Data Science at University of California, Los Angeles, where I am advised by [Professor Mark S. Handcock](https://handcock.github.io). I am also a member of the UCLA Lab for Statistics, Computing, Algorithms, Learning, and Economics (SCALE) led by [Professor Xiaowu Dai](https://www.xiaowudai.org).
+I am a PhD candidate in the Department of Statistics & Data Science at University of California, Los Angeles, where I am advised by [Professor Mark S. Handcock](https://handcock.github.io). I am also a member of the UCLA Lab for Statistics, Computing, Algorithms, Learning, and Economics (SCALE) led by [Professor Xiaowu Dai](https://www.xiaowudai.org).
 
 Research Interests
 ======
